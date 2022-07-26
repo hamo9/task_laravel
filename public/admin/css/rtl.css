@@ -1,0 +1,55 @@
+
+.row ,.container ,.card{
+    direction: rtl;
+    text-align: right;
+}
+
+.topbar{
+    direction: rtl;
+    padding-left: 0px;
+}
+
+.navbar-search input{
+    border-radius: 0px 8px 8px 0px !important;
+}
+
+.navbar-search button{
+    border-radius:8px 0px 0px 8px !important;
+}
+
+
+.sidebar .nav-link ,.collapse-inner{
+    text-align: right !important;
+    direction: rtl !important;
+}
+
+.rtl_sidebar{
+    padding-right: 0px !important;
+}
+
+.rtl_topnav{
+    margin: 0px !important;
+    margin-left: 6% !important;
+    margin-right: auto !important;
+
+    /* direction: ltr; */
+}
+
+.rtl_topnav .dropdown-menu{
+    direction: rtl !important;
+    text-align: right;
+}
+
+.rtl_topnav img{
+    margin-right: 10px;
+}
+
+
+.rtl_text_right{
+    text-align: right !important;
+}
+
+input{
+    direction: rtl;
+    text-align: right;
+}

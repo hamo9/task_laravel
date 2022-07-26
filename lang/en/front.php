@@ -1,0 +1,41 @@
+<?php
+
+return [
+    'lang' => 'en',
+    'Home' => 'Home',
+    'login' => 'login',
+    'laravel task' => 'laravel task',
+    'Start Now' => 'Start Now',
+    'Welcome Back!' => 'Welcome Back!',
+    'Enter Email Address' => 'Enter Email Address...',
+    'Password' => 'Password',
+    'dashboard' => 'dashboard',
+    'products' => 'products',
+    'categories' => 'categories',
+    'category' => 'category',
+    'logout' => 'logout',
+    'All categories' => 'All categories',
+    'Add category' => 'Add category',
+    'image' => 'image',
+    'description' => 'description',
+    'manage' => 'manage',
+    'name' => 'name',
+    'Add' => 'Add',
+    'Back' => 'Back',
+    'edit category' => 'edit category',
+    'update' => 'update',
+    'All products' => 'All products',
+    'Add product' => 'Add product',
+    'edit product' => 'edit product',
+    'filter product by name or category' => 'filter product by name or category',
+    'Filter' => 'Filter',
+    'name or category here' => 'name or category here',
+    'image' => 'image',
+    'image' => 'image',
+    'image' => 'image',
+    'image' => 'image',
+    'image' => 'image',
+
+
+
+];

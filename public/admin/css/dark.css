@@ -1,0 +1,36 @@
+.bg-primary{
+    background-color: #333 !important;
+}
+
+.bg-gradient-primary {
+    background-color: #333 !important;
+    background-size: cover;
+}
+
+.navbar-light ,.bg-white{
+    background-color: #333 !important;
+}
+
+.text-gray-600{
+    color: #fff !important;
+}
+
+
+#page-top{
+    background-color: #333 !important;
+}
+
+.bg-light,.btn-light {
+    background-color: #333 !important;
+  }
+
+.text-light {
+color: #333 !important;
+}
+
+.body_custom {
+    color: #fff !important;
+    background-color: #333 !important;
+  }
+
+
